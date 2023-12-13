@@ -1,0 +1,13 @@
+:root{
+    --blue: #002349;
+    --grey: #7a7977;
+}
+
+h4{
+    float:left;
+}
+
+
+input:focus::placeholder{
+    color: transparent;
+}
