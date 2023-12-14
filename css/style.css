@@ -11,3 +11,7 @@ h4{
 input:focus::placeholder{
     color: transparent;
 }
+
+.blue{
+    background-color: #002349 !important;
+}
